@@ -1,0 +1,1147 @@
+@media (min-width: 1400px) {
+    /* ===navbar part start === */
+    #navbar .navbar-toggler{
+        border: none;
+    }
+    #navbar .navbar-toggler:focus{
+        box-shadow: none;
+    }
+
+    #navbar .toggler_icon i{
+        font-size: 25px;
+        color: white;
+    }
+    
+    #navbar ul .nav-link:hover::after {
+        width: 60%;
+    }
+ /* ===navbar part end=== */
+
+    /* ===banner part start === */
+    #banner .banner_slider .overlay {
+        padding: 240px 0;
+    }
+
+    #banner .banner_slider .overlay h6 {
+        font-size: 30px;
+    }
+
+    .heading {
+        font-size: 70px;
+    }
+
+    #banner .banner_slider .overlay .icon_main {
+        flex-direction: column;
+        justify-content: center;
+        margin-top: 24px;
+    }
+
+    #banner .banner_slider ul {
+        left: 50%;
+        top: 75%;
+        gap: 7px;
+        flex-direction: row;
+        transform: translateX(-50%);
+    }
+    /* ===banner part end === */
+
+    /* ===about part start === */
+    #about {
+        padding: 115px 0;
+    }
+
+    #about article .title h3 {
+        font-size: 40px;
+    }
+
+    #about article .item .shape {
+        width: 416px;
+        padding: 15px;
+    }
+
+    
+    /* ===about part end === */
+
+    /* ===reception part start === */
+    #reception .overlay {
+        padding: 120px 0;
+        /*! text-align: center; */
+    }
+
+    #reception .overlay h2 {
+        font-size: 60px;
+    }
+    /* ===reception part end === */
+
+    /* ===rsvp part start === */
+    #rsvp {
+        padding: 90px 0;
+    }
+
+    #rsvp .friends .item .img {
+        height: 250px;
+        width: 250px;
+    }
+    /* ===rsvp part end === */
+
+    /* ===gallery part start === */
+    #gallery {
+        padding-top: 85px;
+    }
+
+    #gallery .main {
+        display: flex;
+        flex-wrap: wrap;
+    }
+
+    #gallery ul button {
+        padding: 7px 20px;
+    }
+    
+    /* ===gallery part end === */
+
+    /* ===guest part start === */
+    #guest {
+        padding: 80px 0;
+    }
+
+    #guest .item {
+        height: 220px;
+        width: 220px;
+        /*! margin-bottom: 20px; */
+    }
+
+    #guest .item .circle {
+        height: 208px;
+        width: 208px;
+    }
+
+    #guest .item .circle h4 {
+        font-size: 46px;
+    }
+
+    #guest .item .circle i {
+        font-size: 48px;
+    }
+
+    #guest .item .circle h5 {
+        font-size: 19px;
+    }
+    /* ===guest part end === */
+
+    /* ===timeline part start === */
+    #timeline .overlay {
+        padding: 80px 0;
+    }
+
+
+    /* ===timeline part end === */
+
+    /* ===review part start === */
+    #review {
+        margin: 80px 0;
+    }
+    /* ===review part end === */
+
+    /* ===contact part start === */
+    #contact {
+        padding: 80px 0;
+    }
+
+    #contact .main {
+        margin: 13px 0;
+        justify-content: center;
+        /*! text-align: center; */
+    }
+
+    #contact .main i {
+        font-size: 36px;
+    }
+
+    #contact .main h4 {
+        font-size: 19px;
+    }
+    /* ===contact part end === */
+
+    /* ===footer part start === */
+    footer {
+        padding: 50px 0;
+    }
+
+    footer a {
+        height: 47px;
+        width: 47px;
+    }
+
+    footer a i {
+        font-size: 20px;
+    }
+
+    /* ===footer part end === */
+
+}
+
+@media (min-width: 1200px) and (max-width: 1399.98px) {
+    /* ===navbar part start === */
+    #navbar .navbar-toggler{
+        border: none;
+    }
+    #navbar .navbar-toggler:focus{
+        box-shadow: none;
+    }
+
+    #navbar .toggler_icon i{
+        font-size: 25px;
+        color: white;
+    }
+    
+    #navbar ul .nav-link:hover::after {
+        width: 60%;
+    }
+ /* ===navbar part end=== */
+
+    /* ===banner part start === */
+    #banner .banner_slider .overlay {
+        padding: 240px 0;
+    }
+
+    #banner .banner_slider .overlay h6 {
+        font-size: 30px;
+    }
+
+    .heading {
+        font-size: 70px;
+    }
+
+    #banner .banner_slider .overlay .icon_main {
+        flex-direction: column;
+        justify-content: center;
+        margin-top: 24px;
+    }
+
+    #banner .banner_slider ul {
+        left: 50%;
+        top: 75%;
+        gap: 7px;
+        flex-direction: row;
+        transform: translateX(-50%);
+    }
+    /* ===banner part end === */
+
+    /* ===about part start === */
+    #about {
+        padding: 115px 0;
+    }
+
+    #about article .title h3 {
+        font-size: 40px;
+    }
+
+    #about article .item .shape {
+        width: 416px;
+        padding: 15px;
+    }
+
+    
+    /* ===about part end === */
+
+    /* ===reception part start === */
+    #reception .overlay {
+        padding: 120px 0;
+        /*! text-align: center; */
+    }
+
+    #reception .overlay h2 {
+        font-size: 60px;
+    }
+    /* ===reception part end === */
+
+    /* ===rsvp part start === */
+    #rsvp {
+        padding: 90px 0;
+    }
+
+    #rsvp .friends .item .img {
+        height: 250px;
+        width: 250px;
+    }
+    /* ===rsvp part end === */
+
+    /* ===gallery part start === */
+    #gallery {
+        padding-top: 85px;
+    }
+
+    #gallery .main {
+        display: flex;
+        flex-wrap: wrap;
+    }
+
+    #gallery ul button {
+        padding: 7px 20px;
+    }
+    
+    /* ===gallery part end === */
+
+    /* ===guest part start === */
+    #guest {
+        padding: 80px 0;
+    }
+
+    #guest .item {
+        height: 220px;
+        width: 220px;
+        /*! margin-bottom: 20px; */
+    }
+
+    #guest .item .circle {
+        height: 208px;
+        width: 208px;
+    }
+
+    #guest .item .circle h4 {
+        font-size: 46px;
+    }
+
+    #guest .item .circle i {
+        font-size: 48px;
+    }
+
+    #guest .item .circle h5 {
+        font-size: 19px;
+    }
+    /* ===guest part end === */
+
+    /* ===timeline part start === */
+    #timeline .overlay {
+        padding: 80px 0;
+    }
+
+
+    /* ===timeline part end === */
+
+    /* ===review part start === */
+    #review {
+        margin: 80px 0;
+    }
+    /* ===review part end === */
+
+    /* ===contact part start === */
+    #contact {
+        padding: 80px 0;
+    }
+
+    #contact .main {
+        margin: 13px 0;
+        justify-content: center;
+        /*! text-align: center; */
+    }
+
+    #contact .main i {
+        font-size: 36px;
+    }
+
+    #contact .main h4 {
+        font-size: 19px;
+    }
+    /* ===contact part end === */
+
+    /* ===footer part start === */
+    footer {
+        padding: 50px 0;
+    }
+
+    footer a {
+        height: 47px;
+        width: 47px;
+    }
+
+    footer a i {
+        font-size: 20px;
+    }
+
+    /* ===footer part end === */
+
+}
+
+@media (min-width: 992px) and (max-width: 1199.98px) {
+    /* ===navbar part start === */
+    #navbar .navbar-toggler{
+        border: none;
+    }
+    #navbar .navbar-toggler:focus{
+        box-shadow: none;
+    }
+
+    #navbar .toggler_icon i{
+        font-size: 25px;
+        color: white;
+    }
+    
+    #navbar ul .nav-link:hover::after {
+        width: 60%;
+    }
+ /* ===navbar part end=== */
+
+    /* ===banner part start === */
+    #banner .banner_slider .overlay {
+        padding: 220px 0;
+    }
+
+    #banner .banner_slider .overlay h6 {
+        font-size: 30px;
+    }
+
+    .heading {
+        font-size: 63px;
+    }
+
+    #banner .banner_slider .overlay .icon_main {
+        flex-direction: column;
+        justify-content: center;
+        margin-top: 24px;
+    }
+
+    #banner .banner_slider ul {
+        left: 50%;
+        top: 75%;
+        gap: 7px;
+        flex-direction: row;
+        transform: translateX(-50%);
+    }
+    /* ===banner part end === */
+
+    /* ===about part start === */
+    #about {
+        padding: 100px 0;
+    }
+
+    #about article .title h3 {
+        font-size: 40px;
+    }
+
+    #about article .item .shape {
+        width: 367px;
+        padding: 15px;
+    }
+
+    
+    /* ===about part end === */
+
+    /* ===reception part start === */
+    #reception .overlay {
+        padding: 100px 0;
+        /*! text-align: center; */
+    }
+
+    #reception .overlay h2 {
+        font-size: 45px;
+    }
+    /* ===reception part end === */
+
+    /* ===rsvp part start === */
+    #rsvp {
+        padding: 90px 0;
+    }
+
+    #rsvp .friends .item .img {
+        height: 250px;
+        width: 250px;
+    }
+    /* ===rsvp part end === */
+
+    /* ===gallery part start === */
+    #gallery {
+        padding-top: 85px;
+    }
+
+    #gallery .main {
+        display: flex;
+        flex-wrap: wrap;
+    }
+
+    #gallery ul button {
+        padding: 7px 20px;
+    }
+    
+    /* ===gallery part end === */
+
+    /* ===guest part start === */
+    #guest {
+        padding: 80px 0;
+    }
+
+    #guest .item {
+        height: 190px;
+        width: 190px;
+        /*! margin-bottom: 20px; */
+    }
+
+    #guest .item .circle {
+        height: 180px;
+        width: 180px;
+    }
+
+    #guest .item .circle h4 {
+        font-size: 42px;
+    }
+
+    #guest .item .circle i {
+        font-size: 44px;
+    }
+
+    #guest .item .circle h5 {
+        font-size: 17px;
+    }
+    /* ===guest part end === */
+
+    /* ===timeline part start === */
+    #timeline .overlay {
+        padding: 80px 0;
+    }
+
+
+    /* ===timeline part end === */
+
+    /* ===review part start === */
+    #review {
+        margin: 70px 0;
+    }
+    /* ===review part end === */
+
+    /* ===contact part start === */
+    #contact {
+        padding: 80px 0;
+    }
+
+    #contact .main {
+        margin: 13px 0;
+        justify-content: center;
+        /*! text-align: center; */
+    }
+
+    #contact .main i {
+        font-size: 36px;
+    }
+
+    #contact .main h4 {
+        font-size: 19px;
+    }
+    /* ===contact part end === */
+
+    /* ===footer part start === */
+    footer {
+        padding: 50px 0;
+    }
+
+    footer a {
+        height: 40px;
+        width: 40px;
+    }
+
+    footer a i {
+        font-size: 20px;
+    }
+
+    /* ===footer part end === */
+
+}
+
+@media (min-width: 768px) and (max-width: 991.98px) {
+    /* ===navbar part start === */
+    #navbar .navbar-toggler{
+        border: none;
+    }
+    #navbar .navbar-toggler:focus{
+        box-shadow: none;
+    }
+
+    #navbar .toggler_icon i{
+        font-size: 25px;
+        color: white;
+    }
+
+    #navbar ul {
+        background: gray;
+    }
+    
+    #navbar ul .nav-link:hover::after {
+        width: 31%;
+    }
+ /* ===navbar part end=== */
+
+    /* ===banner part start === */
+    #banner .banner_slider .overlay {
+        padding: 180px 0;
+    }
+
+    #banner .banner_slider .overlay h6 {
+        font-size: 25px;
+    }
+
+    .heading {
+        font-size: 53px;
+    }
+
+    #banner .banner_slider .overlay .icon_main {
+        flex-direction: row;
+        justify-content: center;
+        margin-top: 24px;
+    }
+
+    #banner .banner_slider ul {
+        left: 50%;
+        top: 75%;
+        gap: 7px;
+        flex-direction: row;
+        transform: translateX(-50%);
+    }
+    /* ===banner part end === */
+
+    /* ===about part start === */
+    #about {
+        padding: 90px 0;
+    }
+
+    #about article .title h3 {
+        font-size: 40px;
+    }
+
+    #about article .item .shape {
+        width: 317px;
+        padding: 10px;
+    }
+
+    
+    /* ===about part end === */
+
+    /* ===reception part start === */
+    #reception .overlay {
+        padding: 85px 0;
+        text-align: center;
+    }
+
+    #reception .overlay h2 {
+        font-size: 45px;
+    }
+    /* ===reception part end === */
+
+    /* ===rsvp part start === */
+    #rsvp {
+        padding: 70px 0;
+    }
+
+    #rsvp .friends .item .img {
+        height: 220px;
+        width: 220px;
+    }
+    /* ===rsvp part end === */
+
+    /* ===gallery part start === */
+    #gallery {
+        padding-top: 85px;
+    }
+
+    #gallery .main {
+        display: flex;
+        flex-wrap: wrap;
+    }
+
+    #gallery ul button {
+        padding: 7px 17px;
+    }
+    
+    /* ===gallery part end === */
+
+    /* ===guest part start === */
+    #guest {
+        padding: 80px 0;
+    }
+
+    #guest .item {
+        height: 150px;
+        width: 150px;
+        margin-bottom: 20px;
+    }
+
+    #guest .item .circle {
+        height: 142px;
+        width: 142px;
+    }
+
+    #guest .item .circle h4 {
+        font-size: 32px;
+    }
+
+    #guest .item .circle i {
+        font-size: 35px;
+    }
+
+    #guest .item .circle h5 {
+        font-size: 14px;
+    }
+    /* ===guest part end === */
+
+    /* ===timeline part start === */
+    #timeline .overlay {
+        padding: 80px 0;
+    }
+
+
+    /* ===timeline part end === */
+
+    /* ===review part start === */
+    #review {
+        margin: 70px 0;
+    }
+    /* ===review part end === */
+
+    /* ===contact part start === */
+    #contact {
+        padding: 50px 0;
+    }
+
+    #contact .main {
+        margin: 13px 0;
+        justify-content: start;
+        text-align: center;
+    }
+
+    #contact .main i {
+        font-size: 36px;
+    }
+
+    #contact .main h4 {
+        font-size: 19px;
+    }
+    /* ===contact part end === */
+
+    /* ===footer part start === */
+    footer {
+        padding: 50px 0;
+    }
+
+    footer a {
+        height: 40px;
+        width: 40px;
+    }
+
+    footer a i {
+        font-size: 20px;
+    }
+
+    /* ===footer part end === */
+
+}
+
+@media (min-width: 576px) and (max-width: 767.98px) {
+    /* ===navbar part start === */
+    #navbar .navbar-toggler{
+        border: none;
+    }
+    #navbar .navbar-toggler:focus{
+        box-shadow: none;
+    }
+
+    #navbar .toggler_icon i{
+        font-size: 25px;
+        color: white;
+    }
+
+    #navbar ul {
+        background: gray;
+    }
+    
+    #navbar ul .nav-link:hover::after {
+        width: 31%;
+    }
+ /* ===navbar part end=== */
+
+    /* ===banner part start === */
+    #banner .banner_slider .overlay {
+        padding: 167px 0;
+    }
+
+    #banner .banner_slider .overlay h6 {
+        font-size: 23px;
+    }
+
+    .heading {
+        font-size: 49px;
+    }
+
+    #banner .banner_slider .overlay .icon_main {
+        flex-direction: row;
+        justify-content: center;
+        margin-top: 24px;
+    }
+
+    #banner .banner_slider ul {
+        left: 50%;
+        top: 75%;
+        gap: 7px;
+        flex-direction: row;
+        transform: translateX(-50%);
+    }
+    /* ===banner part end === */
+
+    /* ===about part start === */
+    #about {
+        padding: 80px 0;
+    }
+
+    #about article .title h3 {
+        font-size: 37px;
+    }
+
+    #about article .item .shape {
+        width: 360px;
+        padding: 15px;
+    }
+
+    #about .first_item {
+        margin-bottom: 170px;
+    }
+    /* ===about part end === */
+
+    /* ===reception part start === */
+    #reception .overlay {
+        padding: 70px 0;
+        text-align: center;
+    }
+
+    #reception .overlay h2 {
+        font-size: 40px;
+    }
+    /* ===reception part end === */
+
+    /* ===rsvp part start === */
+    #rsvp {
+        padding: 70px 0;
+    }
+
+    #rsvp .friends .item .img {
+        height: 230px;
+        width: 230px;
+    }
+    /* ===rsvp part end === */
+
+    /* ===gallery part start === */
+    #gallery {
+        padding-top: 80px;
+    }
+
+    #gallery .main {
+        display: flex;
+        flex-wrap: wrap;
+    }
+
+    #gallery .main .item {
+        width: 50%;
+    }
+
+    #gallery ul button {
+        padding: 7px 14px;
+    }
+
+    #gallery .main .item2 {
+        width: 100%;
+    }
+    /* ===gallery part end === */
+
+    /* ===guest part start === */
+    #guest {
+        padding: 80px 0;
+    }
+
+    #guest .item {
+        height: 175px;
+        width: 175px;
+        margin-bottom: 20px;
+    }
+
+    #guest .item .circle {
+        height: 167px;
+        width: 167px;
+    }
+
+    #guest .item .circle h4 {
+        font-size: 32px;
+    }
+
+    #guest .item .circle i {
+        font-size: 35px;
+    }
+
+    #guest .item .circle h5 {
+        font-size: 16px;
+    }
+    /* ===guest part end === */
+
+    /* ===timeline part start === */
+    #timeline .overlay {
+        padding: 70px 0;
+    }
+
+    #timeline .overlay .main::after {
+       display: none;
+    }
+
+    #timeline article::after {
+        display: none;
+    }
+
+    #timeline article::before {
+        display: none;
+    }
+    /* ===timeline part end === */
+
+    /* ===review part start === */
+    #review {
+        margin: 70px 0;
+    }
+    /* ===review part end === */
+
+    /* ===contact part start === */
+    #contact {
+        padding: 50px 0;
+    }
+
+    #contact .main {
+        margin: 13px 0;
+        justify-content: start;
+        text-align: center;
+    }
+
+    #contact .main i {
+        font-size: 36px;
+    }
+
+    #contact .main h4 {
+        font-size: 19px;
+    }
+    /* ===contact part end === */
+
+    /* ===footer part start === */
+    footer {
+        padding: 50px 0;
+    }
+
+    footer a {
+        height: 40px;
+        width: 40px;
+    }
+
+    footer a i {
+        font-size: 17px;
+    }
+
+    footer p span {
+        display: block;
+    }
+    /* ===footer part end === */
+
+}
+
+@media (max-width: 575.98px) {
+    /* ===navbar part start === */
+    #navbar .navbar-toggler{
+        border: none;
+    }
+    #navbar .navbar-toggler:focus{
+        box-shadow: none;
+    }
+
+    #navbar .toggler_icon i{
+        font-size: 25px;
+        color: white;
+    }
+
+    #navbar ul {
+        background: gray;
+    }
+    
+    #navbar ul .nav-link:hover::after {
+        width: 31%;
+    }
+ /* ===navbar part end=== */
+
+    /* ===banner part start === */
+    #banner .banner_slider .overlay {
+        padding: 150px 0;
+    }
+
+    #banner .banner_slider .overlay h6 {
+        font-size: 20px;
+    }
+
+    .heading {
+        font-size: 40px;
+    }
+
+    #banner .banner_slider .overlay .icon_main {
+        flex-direction: row;
+        justify-content: center;
+        margin-top: 20px;
+    }
+
+    #banner .banner_slider ul {
+        left: 50%;
+        top: 75%;
+        gap: 7px;
+        flex-direction: row;
+        transform: translateX(-50%);
+    }
+    /* ===banner part end === */
+
+    /* ===about part start === */
+    #about {
+        padding: 65px 0;
+    }
+
+    #about article .title h3 {
+        font-size: 27px;
+    }
+
+    #about article .item .shape {
+        width: 310px;
+        padding: 7px;
+    }
+
+    #about .first_item {
+        margin-bottom: 170px;
+    }
+    /* ===about part end === */
+
+    /* ===reception part start === */
+    #reception .overlay {
+        padding: 54px 0;
+        text-align: center;
+    }
+
+    #reception .overlay h2 {
+        font-size: 37px;
+    }
+    /* ===reception part end === */
+
+    /* ===rsvp part start === */
+    #rsvp {
+        padding: 60px 0;
+    }
+
+    #rsvp .friends .item .img {
+        height: 255px;
+        width: 255px;
+    }
+    /* ===rsvp part end === */
+
+    /* ===gallery part start === */
+    #gallery {
+        padding-top: 64px;
+    }
+
+    #gallery .main {
+        display: block;
+    }
+
+    #gallery .main .item {
+        width: 100%;
+    }
+
+    #gallery ul button {
+        padding: 7px 16px;
+    }
+    /* ===gallery part end === */
+
+    /* ===guest part start === */
+    #guest {
+        padding: 80px 0;
+    }
+
+    #guest .item {
+        height: 175px;
+        width: 175px;
+        margin-bottom: 20px;
+    }
+
+    #guest .item .circle {
+        height: 167px;
+        width: 167px;
+    }
+
+    #guest .item .circle h4 {
+        font-size: 32px;
+    }
+
+    #guest .item .circle i {
+        font-size: 35px;
+    }
+
+    #guest .item .circle h5 {
+        font-size: 16px;
+    }
+    /* ===guest part end === */
+
+    /* ===timeline part start === */
+    #timeline .overlay {
+        padding: 70px 0;
+    }
+
+    #timeline .overlay .main::after {
+       display: none;
+    }
+
+    #timeline article::after {
+        display: none;
+    }
+
+    #timeline article::before {
+        display: none;
+    }
+    /* ===timeline part end === */
+
+    /* ===review part start === */
+    #review {
+        margin: 70px 0;
+    }
+    /* ===review part end === */
+
+    /* ===contact part start === */
+    #contact {
+        padding: 50px 0;
+    }
+
+    #contact .main {
+        margin: 13px 0;
+        justify-content: start;
+    }
+
+    #contact .main i {
+        font-size: 36px;
+    }
+
+    #contact .main h4 {
+        font-size: 19px;
+    }
+    /* ===contact part end === */
+
+    /* ===footer part start === */
+    footer {
+        padding: 50px 0;
+    }
+
+    footer a {
+        height: 33px;
+        width: 33px;
+    }
+
+    footer a i {
+        font-size: 17px;
+    }
+
+    footer p span {
+        display: block;
+    }
+    /* ===footer part end === */
+
+}
